@@ -16,6 +16,7 @@ h1, p{
 }
 .b1{
     align-items: center;
+    justify-content: center;
 }
 /*
 body{
