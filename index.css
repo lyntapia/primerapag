@@ -9,8 +9,11 @@ h1, p{
    text-align:center;
    margin-top:30px;
 }
+p{
+   margin-bottom:30px;
+}
 .box{
-  margin-top:30px;
+  
   display: block;
   align-items:center;
 }
