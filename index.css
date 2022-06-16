@@ -14,7 +14,7 @@ p{
 }
 .box{
    text-align:center;
-   resize: horizontal;
-   overflow: auto;
+   width: 100%; /* fall back */
+   width: 100vw;
 }
 
