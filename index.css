@@ -7,10 +7,9 @@
 h1, p{
     color: white;
     margin-top: 20px;
+    text-align: center;
 }
-.box{
-   text-align: center; 
-}
+
 .imagen{
     margin-bottom: 30px;
 }
