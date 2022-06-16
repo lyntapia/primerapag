@@ -1,13 +1,14 @@
 *{
-    background-color: black;
+   background-color: black;
    padding: 0px;
    margin:0px;
    box-sizing: border-box;
 }
 h1, p{
     color: white;
-    padding-top: 300px;
-    padding-bottom: 300px;
+}
+.box{
+    margin-top:200px;
 }
 /*
 body{
