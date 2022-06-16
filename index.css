@@ -14,6 +14,10 @@ h1, p{
     display: flex;
     align-items: center;
 }
+.b1{
+    display: block;
+    align-items: center;
+}
 /*
 body{
     display: table-cell;
