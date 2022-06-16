@@ -10,6 +10,7 @@ h1, p{
    margin-top:30px;
 }
 .box{
+  margin-top:30px;
   display: block;
   align-items:center;
 }
