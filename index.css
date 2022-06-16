@@ -10,6 +10,8 @@ h1, p{
 }
 .container{
     margin: 0 auto;  
+}
+.b1{
     display: flex;
 }
 /*
