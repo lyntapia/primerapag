@@ -12,7 +12,6 @@ h1, p{
 }
 .box{
    align-items: center; 
-   margin-top:100px;
 }
 .box .imagen{
   display: block;
