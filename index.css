@@ -6,9 +6,7 @@
 }
 h1, p{
     color: white;
-}
-.box{
-    align-items: center;
+    text-align: center
 }
 /*
 body{
