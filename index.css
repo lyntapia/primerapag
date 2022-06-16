@@ -14,7 +14,7 @@ p{
 }
 .box{
    text-align:center;
-   resize: both;
+   resize: horizontal;
    overflow: auto;
 }
 
