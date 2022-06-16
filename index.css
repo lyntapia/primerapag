@@ -9,7 +9,10 @@ h1, p{
    text-align:center;
    margin-top:30px;
 }
-
+.box{
+  display: block;
+  align-items:center;
+}
 /*
 body{
     display: table-cell;
