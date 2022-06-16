@@ -6,10 +6,13 @@
 }
 h1, p{
     color: white;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 .box{
    align-items: center; 
+}
+.imagen{
+    margin-bottom: 30px;
 }
 /*
 body{
