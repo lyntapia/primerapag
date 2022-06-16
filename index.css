@@ -7,12 +7,14 @@
 h1, p{
     color: white;
     margin: 20px auto;
+    display: block;
 }
 .container{
-    margin: 0 auto;  
+    margin: 0 auto; 
+    display: flex;
 }
 .b1{
-    display: flex;
+    display: block;
 }
 /*
 body{
