@@ -13,11 +13,9 @@ h1, p{
 .box{
    align-items: center; 
 }
-.box .imagen{
+.imagen{
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+  align-items:center;
 }
 /*
 body{
