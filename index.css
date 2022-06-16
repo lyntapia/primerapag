@@ -13,10 +13,7 @@ h1, p{
     margin: 0 auto; 
     display: flex;
     align-items: center;
-}
-.b1{
-    align-items: center;
-    justify-content: center;
+    text-align: center;
 }
 /*
 body{
